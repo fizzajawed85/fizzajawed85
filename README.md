@@ -61,12 +61,12 @@ HTML · CSS · JavaScript (ES6+) · TypeScript · **React/Next.js (learning)** �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fizzajawed85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fizzajawed85&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-fizzajawed85.vercel.app/api?username=fizzajawed85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-fizzajawed85.vercel.app/api/streak?user=fizzajawed85&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizzajawed85&bg_color=0d1117&color=9A37FF&line=9A37FF&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-stats-fizzajawed85.vercel.app/api/graph?username=fizzajawed85&bg_color=0d1117&color=9A37FF&line=9A37FF&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -80,4 +80,5 @@ HTML · CSS · JavaScript (ES6+) · TypeScript · **React/Next.js (learning)** �
 ---
 
 <h3 align="center">✨ Turning ideas into <b>stunning, interactive, and user-friendly websites</b> — code that speaks for itself ✨</h3>
+
 
