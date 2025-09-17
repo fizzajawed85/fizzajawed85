@@ -3,10 +3,8 @@
 <h1 align="center">Hi 👋, I'm Fizza Jawed</h1>
 
 <p align="center">
-  <a href="https://github.com/fizzajawed85" style="text-decoration: none;">
-    <span style="font-weight: bold; color: #0B3D91; text-transform: uppercase; font-size: 18px;">
-      Profile Views: <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=fizzajawed85&style=flat-square">
-    </span>
+  <a href="https://github.com/fizzajawed85">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=fizzajawed85&color=blueviolet&style=flat-square">
   </a>
 </p>
 
