@@ -4,14 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/fizzajawed85">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=fizzajawed85&color=blueviolet&style=flat-square">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=fizzajawed85&color=00008B&style=flat-square">
   </a>
 </p>
 
-
-
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=9A37FF&center=true&vCenter=true&width=600&lines=💻+Frontend+Web+Developer;⚡+React+%2F+Next.js+Learner;✨+Crafting+Elegant+Websites" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00008B&center=true&vCenter=true&width=600&lines=💻+FRONTEND+WEB+DEVELOPER;⚡+REACT+%2F+NEXT.JS+LEARNER;✨+CRAFTING+ELEGANT+WEBSITES" alt="Typing Animation" />
 </h2>
 
 ---
@@ -25,6 +23,8 @@ HTML · CSS · JavaScript (ES6+) · TypeScript · **React/Next.js (learning)** �
 
 🌱 **Currently Learning:** React/Next.js  
 🎯 **Future Goals:** Redux Toolkit · Node.js · Express.js · MongoDB · React Native  
+
+✨ I build **websites that are visually stunning, interactive, and highly functional**.
 
 ---
 
@@ -49,21 +49,24 @@ HTML · CSS · JavaScript (ES6+) · TypeScript · **React/Next.js (learning)** �
 ---
 
 ## 🚀 Featured Projects
-- 🌐 [Portfolio Website](https://github.com/fizzajawed85) – My personal developer portfolio  
-- 🛍️ [Ecommerce UI](https://github.com/fizzajawed85) – Responsive e-commerce website design  
-- 📱 [Clones & Mini Projects](https://github.com/fizzajawed85?tab=repositories) – Practice projects  
+
+- 🌐 [Personal Portfolio (HTML + JS + Tailwind)](https://personal-portfolio-tailwind-css-ten.vercel.app/) – Fully responsive, modern portfolio website  
+- 🌐 [Portfolio (Next.js + Tailwind)](https://next-js-milestone-multipage-portfolio-tailwind.vercel.app/) – Multi-page Next.js portfolio design  
+- 🛍️ [Zee Fashion E-commerce](https://www.zeefashion.site/) – Full e-commerce website with custom domain  
+- 📱 [Clones & Mini Projects](https://github.com/fizzajawed85?tab=repositories) – Various practice projects and website clones  
+- 🚀 [All Projects on Vercel](https://vercel.com/fizza-jaweds-projects) – Hosted projects and live demos  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fizzajawed85&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fizzajawed85&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fizzajawed85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&token=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" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fizzajawed85&theme=tokyonight&hide_border=true&token=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" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizzajawed85&bg_color=0d1117&color=9A37FF&line=9A37FF&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizzajawed85&bg_color=0d1117&color=9A37FF&line=9A37FF&point=ffffff&area=true&hide_border=true&token=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"/>
 </p>
 
 ---
@@ -77,4 +80,3 @@ HTML · CSS · JavaScript (ES6+) · TypeScript · **React/Next.js (learning)** �
 ---
 
 <h3 align="center">✨ Turning ideas into <b>stunning, interactive, and user-friendly websites</b> — code that speaks for itself ✨</h3>
-
