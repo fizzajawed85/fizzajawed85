@@ -3,10 +3,13 @@
 <h1 align="center">Hi 👋, I'm Fizza Jawed</h1>
 
 <p align="center">
-  <a href="https://github.com/fizzajawed85">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=fizzajawed85&color=blueviolet&style=flat-square">
+  <a href="https://github.com/fizzajawed85" style="text-decoration: none;">
+    <span style="font-weight: bold; color: #0B3D91; text-transform: uppercase; font-size: 18px;">
+      Profile Views: <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=fizzajawed85&style=flat-square">
+    </span>
   </a>
 </p>
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=9A37FF&center=true&vCenter=true&width=600&lines=💻+Frontend+Web+Developer;⚡+React+%2F+Next.js+Learner;✨+Crafting+Elegant+Websites" alt="Typing Animation" />
