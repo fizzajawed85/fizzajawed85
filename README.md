@@ -11,6 +11,7 @@
 </p>
 
 
+
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=9A37FF&center=true&vCenter=true&width=600&lines=💻+Frontend+Web+Developer;⚡+React+%2F+Next.js+Learner;✨+Crafting+Elegant+Websites" alt="Typing Animation" />
 </h2>
