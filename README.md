@@ -69,6 +69,7 @@ HTML · CSS · JavaScript (ES6+) · TypeScript · **React/Next.js (learning)** �
   <img src="https://github-readme-stats-czsk.vercel.app/api/graph?username=fizzajawed85&bg_color=0d1117&color=9A37FF&line=9A37FF&point=ffffff&area=true"/>
 </p>
 
+
 ---
 
 ## 🌐 Connect With Me
